@@ -11,4 +11,4 @@ arch:
   - i386
 map:
   - ssl:rw
-image: "ghcr.io/zifnab06/{arch}-dehydrated"
+image: "ghcr.io/zifnab06/dehydrated-{arch}"
