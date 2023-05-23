@@ -5,10 +5,6 @@ slug: "dehydrated"
 init: false
 arch:
   - aarch64
-  - amd64
-  - armhf
-  - armv7
-  - i386
 map:
   - ssl:rw
 image: "ghcr.io/zifnab06/dehydrated-{arch}"
